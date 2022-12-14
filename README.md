@@ -18,7 +18,7 @@ This module mounts most of [WorkBox](https://github.com/GoogleChrome/workbox) pa
 | `workbox-background-sync` | `assets/workbox-background-sync`
 | `workbox-broadcast-update` | `assets/workbox-broadcast-update`
 | `workbox-build` | `assets/workbox-build`
-| `workbox-cacheable-response` | `assets/workbox-workbox-cacheable-response`
+| `workbox-cacheable-response` | `assets/workbox-cacheable-response`
 | `workbox-core` | `assets/workbox-core`
 | `workbox-expiration` | `assets/workbox-expiration`
 | `workbox-google-analytics` | `assets/workbox-google-analytics`
