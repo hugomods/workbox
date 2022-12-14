@@ -1,0 +1,4 @@
+github.com/GoogleChrome/workbox v6.5.4+incompatible h1:J4yOdtnLGsxom7oTS+mRegKJ5a+Wi4j2qfZ72AWRlOM=
+github.com/GoogleChrome/workbox v6.5.4+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
+github.com/razonyang/hugo-mod-idb v0.1.0 h1:YUvilC3uxN1y/5pScFCKGzVT3Wt9gfKjLIYRnWpm7a0=
+github.com/razonyang/hugo-mod-idb v0.1.0/go.mod h1:+CxIx22+zAP2bOewK04EHly8bW5VeSYdoy8zmy6UL64=
