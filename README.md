@@ -1,10 +1,14 @@
 # Hugo WorkBox Module
 
+[![Used By](https://img.shields.io/badge/dynamic/json?color=success&label=used+by&query=repositories_humanize&logo=hugo&style=flat-square&url=https://api.razonyang.com/v1/github/dependents/razonyang/hugo-mod-workbox)](https://github.com/razonyang/hugo-mod-workbox/network/dependents)
+![Hugo Requirements](https://img.shields.io/badge/dynamic/json?color=important&label=requirements&query=requirements&logo=hugo&style=flat-square&url=https://api.razonyang.com/v1/hugo/modules/github.com/razonyang/hugo-mod-workbox)
+[![License](https://img.shields.io/github/license/razonyang/hugo-mod-workbox?style=flat-square)](https://github.com/razonyang/hugo-mod-workbox/blob/main/LICENSE)
+[![Version](https://img.shields.io/github/v/tag/razonyang/hugo-mod-workbox?label=version&style=flat-square)](https://github.com/razonyang/hugo-mod-workbox/tags)
+
 This module mounts most of [WorkBox](https://github.com/GoogleChrome/workbox) packages on `assets/workbox-*` folder.
 
 ## Requirements
 
-- Hugo `0.109.0` or above.
 - [Hugo Module](https://gohugo.io/hugo-modules/use-modules/#prerequisite).
 
 ## Packages
