@@ -1,0 +1,57 @@
+[module]
+[module.hugoVersion]
+min = '0.110.0'
+
+[[module.imports]]
+path = "github.com/hugomods/idb-js"
+
+[[module.imports]]
+path = "github.com/GoogleChrome/workbox"
+[[module.imports.mounts]]
+source = "packages/workbox-background-sync/src"
+target = "assets/workbox-background-sync"
+[[module.imports.mounts]]
+source = "packages/workbox-broadcast-update/src"
+target = "assets/workbox-broadcast-update"
+[[module.imports.mounts]]
+source = "packages/workbox-build/src"
+target = "assets/workbox-build"
+[[module.imports.mounts]]
+source = "packages/workbox-cacheable-response/src"
+target = "assets/workbox-cacheable-response"
+[[module.imports.mounts]]
+source = "packages/workbox-core/src"
+target = "assets/workbox-core"
+[[module.imports.mounts]]
+source = "packages/workbox-expiration/src"
+target = "assets/workbox-expiration"
+[[module.imports.mounts]]
+source = "packages/workbox-google-analytics/src"
+target = "assets/workbox-google-analytics"
+[[module.imports.mounts]]
+source = "packages/workbox-navigation-preload/src"
+target = "assets/workbox-navigation-preload"
+[[module.imports.mounts]]
+source = "packages/workbox-precaching/src"
+target = "assets/workbox-precaching"
+[[module.imports.mounts]]
+source = "packages/workbox-range-requests/src"
+target = "assets/workbox-range-requests"
+[[module.imports.mounts]]
+source = "packages/workbox-recipes/src"
+target = "assets/workbox-recipes"
+[[module.imports.mounts]]
+source = "packages/workbox-routing/src"
+target = "assets/workbox-routing"
+[[module.imports.mounts]]
+source = "packages/workbox-strategies/src"
+target = "assets/workbox-strategies"
+[[module.imports.mounts]]
+source = "packages/workbox-streams/src"
+target = "assets/workbox-streams"
+[[module.imports.mounts]]
+source = "packages/workbox-sw"
+target = "assets/workbox-sw"
+[[module.imports.mounts]]
+source = "packages/workbox-window/src"
+target = "assets/workbox-window"
